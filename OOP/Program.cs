@@ -25,6 +25,7 @@ namespace GeometryOOP
 
             square2.A = 8;
             Console.WriteLine("The second squares sides are now 8 instead of 6 and therefore the perimeter is " + square2.GetSquarePerimeter());
+            Console.WriteLine("And the area are now " + square2.GetSquareArea());
 
 
 
